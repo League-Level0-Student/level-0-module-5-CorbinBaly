@@ -39,4 +39,4 @@ public class GoofyNames {
 		// 7. Use pop-up to show user their Goofy name
 		JOptionPane.showMessageDialog(null, goofyName);
 	}
-}
+} 
